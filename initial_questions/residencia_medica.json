@@ -1,0 +1,29 @@
+[
+    {
+        "text": "Qual o tratamento de primeira linha para hipertensão arterial em pacientes sem comorbidades?",
+        "options": ["Betabloqueadores", "Diuréticos tiazídicos", "Inibidores da ECA", "Bloqueadores dos canais de cálcio"],
+        "correct_answer": "Diuréticos tiazídicos",
+        "subject": "Cardiologia",
+        "exam_type": "Residência Médica",
+        "difficulty": "hard",
+        "created_by_ia": false
+    },
+    {
+        "text": "Um paciente apresenta quadro de dor abdominal em fossa ilíaca direita, febre e leucocitose. Qual o diagnóstico mais provável?",
+        "options": ["Colecistite aguda", "Pancreatite aguda", "Apendicite aguda", "Diverticulite"],
+        "correct_answer": "Apendicite aguda",
+        "subject": "Cirurgia Geral",
+        "exam_type": "Residência Médica",
+        "difficulty": "medium",
+        "created_by_ia": false
+    },
+    {
+        "text": "Qual o agente etiológico mais comum da pneumonia adquirida na comunidade?",
+        "options": ["Haemophilus influenzae", "Staphylococcus aureus", "Streptococcus pneumoniae", "Klebsiella pneumoniae"],
+        "correct_answer": "Streptococcus pneumoniae",
+        "subject": "Pneumologia",
+        "exam_type": "Residência Médica",
+        "difficulty": "medium",
+        "created_by_ia": false
+    }
+]

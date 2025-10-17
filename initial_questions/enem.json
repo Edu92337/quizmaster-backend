@@ -1,0 +1,29 @@
+[
+    {
+        "text": "Qual é a principal função do DNA nas células?",
+        "options": ["Produção de energia", "Transporte de oxigênio", "Armazenamento e transmissão de informação genética", "Regulação do metabolismo"],
+        "correct_answer": "Armazenamento e transmissão de informação genética",
+        "subject": "Biologia",
+        "exam_type": "ENEM",
+        "difficulty": "medium",
+        "created_by_ia": false
+    },
+    {
+        "text": "Em qual ano o Brasil proclamou sua independência?",
+        "options": ["1808", "1822", "1889", "1930"],
+        "correct_answer": "1822",
+        "subject": "História",
+        "exam_type": "ENEM",
+        "difficulty": "easy",
+        "created_by_ia": false
+    },
+    {
+        "text": "Qual a fórmula química da água?",
+        "options": ["CO2", "O2", "H2O", "NaCl"],
+        "correct_answer": "H2O",
+        "subject": "Química",
+        "exam_type": "ENEM",
+        "difficulty": "easy",
+        "created_by_ia": false
+    }
+]
