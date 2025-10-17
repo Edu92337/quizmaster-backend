@@ -19,4 +19,5 @@ stripe==8.0.0 # Versão aproximada, pode precisar de ajuste
 
 
 openai
-
+gunicorn==21.2.0
+flask-cors==4.0.0
